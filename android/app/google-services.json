@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31212545411",
+    "project_id": "fir-auth-95edc",
+    "storage_bucket": "fir-auth-95edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31212545411:android:1c3bb78e7f3395d9d442b6",
+        "android_client_info": {
+          "package_name": "com.example.negombo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD259z8baWip-5-AYin12J8uQBw367P2q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
